@@ -1,5 +1,5 @@
 
-let nombre = parseint(document.getElementById('div1').value);
+let nombre = parseInt(document.getElementById('input1').value);
 let mostrar = document.getElementById('div1');
 
 function empezar(){
