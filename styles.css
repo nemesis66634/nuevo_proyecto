@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: o;
+}
+
+body {
+    background-color: black;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input, button{
+    text-align: center;
+}
+
+
+
+
