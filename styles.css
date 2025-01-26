@@ -9,9 +9,11 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-input, button{
+input{
     text-align: center;
-}
+    magin-left:calc(50% - 180px); 
+} 
+
 
 
 
